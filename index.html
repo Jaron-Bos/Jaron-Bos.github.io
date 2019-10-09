@@ -16,7 +16,23 @@
 
     <!-- Custom styles for this template -->
     <link href="jumbotron.css" rel="stylesheet">
-    <h1 onclick="this.style.color='orange';"></h1>
+    <!doctype html>
+<html>
+  <head>
+    <h1 id="mainHeader">
+       <script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById("mainHeader").onclick = function() {
+    this.style.color = 'orange'
+  }
+})
+</script>
+     </script>
+  </head>
+  <body>
+    ...
+  </body>
+</html>
   </head>
 
   <body>
