@@ -1,5 +1,5 @@
-html, body {background-color: white;}, div, span, applet, object, iframe,
-h1{color: #ff69b4;}, h2, h3, h4, h5, h6, p, blockquote, pre,
+html, body {background-color: white;} div, span, applet, object, iframe,
+h1{color: black;} h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -53,7 +53,7 @@ q, blockquote {
 img src="https://cdn.imgbin.com/7/17/11/imgbin-oregon-state-university-cascades-campus-portland-state-university-hatfield-marine-science-center-land-grant-university-student-HQvDZnMGRaKpssmPDNPW09hwy.jpg"
 
 a img { 
-  border: none; }
+  border: none;}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
