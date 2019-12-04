@@ -50,10 +50,11 @@ q, blockquote {
     content: "";
     content: none; }
 
-img src="https://cdn.imgbin.com/7/17/11/imgbin-oregon-state-university-cascades-campus-portland-state-university-hatfield-marine-science-center-land-grant-university-student-HQvDZnMGRaKpssmPDNPW09hwy.jpg"
-
+img 
+{ src= "https://cdn.imgbin.com/7/17/11/imgbin-oregon-state-university-cascades-campus-portland-state-university-hatfield-marine-science-center-land-grant-university-student-HQvDZnMGRaKpssmPDNPW09hwy.jpg"
+}
 a img { 
-  border: none;}
+  border: none; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
